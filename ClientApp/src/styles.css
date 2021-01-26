@@ -14,8 +14,13 @@ code {
   background-color: #1b6ec2;
   border-color: #1861ac;
 }
-html { background-color: black; }
+
+/* html { background-image: url('/assets/images/zortuslogo.png') } */
 
 .navbar {
-  background-color:black !important
+  background-color:#05BDDE;
+  border-color: rgb(6, 157, 245);
 }
+
+html, body { height: 100%; }
+/* body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; } */

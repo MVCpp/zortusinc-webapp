@@ -1,36 +1,9 @@
 
-/*FOOTER*/
-
-footer {
-  background: #16222A;
-  background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
-  background: linear-gradient(59deg, #3A6073, #16222A);
-  color: white;
-  margin-top:100px;
-}
-
-footer a {
-  color: #fff;
-  font-size: 14px;
-  transition-duration: 0.2s;
-}
-
-footer a:hover {
-  color: #FA944B;
-  text-decoration: none;
-}
-
 .copy {
   font-size: 12px;
   padding: 10px;
   border-top: 1px solid #FFFFFF;
 }
-
-.footer-middle {
-  padding-top: 2em;
-  color: grey;
-}
-
 
 /*SOCİAL İCONS*/
 
@@ -140,4 +113,8 @@ ul.social-network li {
   background: #55ACEE;
   color: white;
 }
-
+.image{
+  height:40em; background-size:cover; width:auto;
+  background-image:url('../assets/images/zortuslogo.png');
+  background-position:50% 50%;
+}

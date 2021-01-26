@@ -11,3 +11,8 @@
   width:100%;
   position:absolute;
 }
+.footer.center {
+  border-top: 1px solid #dbdbdb;
+  background-color: #383838;
+  text-align: center;
+}
